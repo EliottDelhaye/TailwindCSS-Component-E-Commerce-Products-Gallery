@@ -4,7 +4,7 @@ This GitHub repository contains the HTML and TailwindCSS code for an E-commerce 
 The design is responsive, highly customizable, and leverages TailwindCSS for all its styling needs, ensuring a sleek and modern user interface.
 
 <div align="center">
-  <img src="captures/Capture-1.png" width="300" alt="Capture image interface">
+  <img src="captures/Capture-1.png" alt="Capture image interface">
 </div>
 
 #### Features
