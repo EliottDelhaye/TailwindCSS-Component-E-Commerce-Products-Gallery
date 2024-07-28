@@ -11,7 +11,7 @@ The design is responsive, highly customizable, and leverages TailwindCSS for all
 - **Responsive Design**: Adapts smoothly to different device sizes from mobile to desktop.
 - **TailwindCSS for Styling**: Uses TailwindCSS for a clean, utility-first approach, making it easy to modify and extend.
 - **Interactive Elements**: Includes interactive buttons like "Add to Cart" for each product to facilitate user engagement.
-- 
+
 #### Included Files
 - `index.html`: Contains the HTML structure of the page.
 
