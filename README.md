@@ -18,4 +18,4 @@ The design is responsive, highly customizable, and leverages TailwindCSS for all
 #### Usage
 To use or modify this project, no installation process is required thanks to the use of Play CDN for TailwindCSS. You can simply clone the repository and open the `index.html` file in your browser.
 
-Access it here: https://tailwind-css-component-e-commerce-products-gallery.eliottdelhaye.com/
+Access it here: https://eliottdelhaye.github.io/TailwindCSS-Component-E-Commerce-Products-Gallery/
